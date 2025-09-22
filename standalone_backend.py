@@ -5,7 +5,7 @@ This is a simplified version that doesn't depend on the complex app structure
 
 from fastapi import FastAPI, UploadFile, File, HTTPException, status, Path
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
 from pydantic import BaseModel, Field
 from typing import List
 import uvicorn
@@ -50,6 +50,7 @@ class FileInfo(BaseModel):
     size: int = Field(..., description="File size in bytes")
     mime_type: str = Field(..., description="MIME type of the file")
     file_id: str = Field(..., description="Unique file identifier")
+    file_url: str = Field(..., description="URL to access the file")
 
 class UploadResponse(BaseModel):
     success: bool = Field(..., description="Upload operation success status")
@@ -128,7 +129,8 @@ async def upload_files(
                 filename=sanitized_filename,
                 size=file_size,
                 mime_type=file.content_type or "application/pdf",
-                file_id=file_id
+                file_id=file_id,
+                file_url=f"http://localhost:8000/api/v1/files/{file_id}/view"
             )
             uploaded_files.append(file_info)
             
@@ -165,6 +167,101 @@ async def validate_file(filename: str = Path(..., description="Filename to valid
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="File validation failed"
+        )
+
+@app.get("/api/v1/files/{file_id}/download")
+async def download_file(file_id: str = Path(..., description="File ID to download")):
+    """Download a file by its ID (simulates S3-like file serving)"""
+    try:
+        upload_dir = PathLib(UPLOAD_DIR)
+        
+        # Find the file with the given ID
+        file_pattern = f"{file_id}_*"
+        matching_files = list(upload_dir.glob(file_pattern))
+        
+        if not matching_files:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail=f"File with ID {file_id} not found"
+            )
+        
+        file_path = matching_files[0]
+        
+        if not file_path.exists():
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="File not found"
+            )
+        
+        # Extract original filename from the stored filename
+        stored_filename = file_path.name
+        original_filename = stored_filename.replace(f"{file_id}_", "", 1)
+        
+        return FileResponse(
+            path=str(file_path),
+            filename=original_filename,
+            media_type="application/pdf",
+            headers={
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+                "Access-Control-Allow-Headers": "*",
+                "Cache-Control": "no-cache",
+            }
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"File download error: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="File download failed"
+        )
+
+@app.get("/api/v1/files/{file_id}/view")
+async def view_file(file_id: str = Path(..., description="File ID to view")):
+    """View a file by its ID with proper headers for PDF.js"""
+    try:
+        upload_dir = PathLib(UPLOAD_DIR)
+        
+        # Find the file with the given ID
+        file_pattern = f"{file_id}_*"
+        matching_files = list(upload_dir.glob(file_pattern))
+        
+        if not matching_files:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail=f"File with ID {file_id} not found"
+            )
+        
+        file_path = matching_files[0]
+        
+        if not file_path.exists():
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="File not found"
+            )
+        
+        return FileResponse(
+            path=str(file_path),
+            media_type="application/pdf",
+            headers={
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+                "Access-Control-Allow-Headers": "Range, Content-Range, Content-Length",
+                "Accept-Ranges": "bytes",
+                "Cache-Control": "public, max-age=3600",
+                "Content-Disposition": "inline",
+            }
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"File view error: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="File view failed"
         )
 
 if __name__ == "__main__":
