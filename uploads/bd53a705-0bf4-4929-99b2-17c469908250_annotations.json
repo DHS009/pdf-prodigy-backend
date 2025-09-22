@@ -1,0 +1,3644 @@
+{
+  "file_id": "bd53a705-0bf4-4929-99b2-17c469908250",
+  "created_at": "2025-09-22T16:37:20.460619",
+  "annotations": [
+    {
+      "id": "backend-1-0",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "PROFILE",
+        "font": "GlyphLessFont",
+        "size": 10.742697715759277,
+        "source": "backend"
+      },
+      "position": {
+        "x": 79.44000244140625,
+        "y": 185.72003173828125,
+        "width": 44.87995910644531,
+        "height": 9.009002685546875
+      }
+    },
+    {
+      "id": "backend-1-1",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Senior",
+        "font": "GlyphLessFont",
+        "size": 11.059786796569824,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.55999755859375,
+        "y": 212.760009765625,
+        "width": 33.359710693359375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-2",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Software",
+        "font": "GlyphLessFont",
+        "size": 11.431535720825195,
+        "source": "backend"
+      },
+      "position": {
+        "x": 103.91970825195312,
+        "y": 212.760009765625,
+        "width": 50.64030456542969,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-3",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Engineer",
+        "font": "GlyphLessFont",
+        "size": 11.227654457092285,
+        "source": "backend"
+      },
+      "position": {
+        "x": 154.5600128173828,
+        "y": 212.760009765625,
+        "width": 49.68006896972656,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-4",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " with",
+        "font": "GlyphLessFont",
+        "size": 11.19819450378418,
+        "source": "backend"
+      },
+      "position": {
+        "x": 204.24008178710938,
+        "y": 212.760009765625,
+        "width": 25.679840087890625,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-5",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " 8",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 229.919921875,
+        "y": 212.760009765625,
+        "width": 9.360107421875,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-6",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " years",
+        "font": "GlyphLessFont",
+        "size": 11.11544418334961,
+        "source": "backend"
+      },
+      "position": {
+        "x": 239.280029296875,
+        "y": 212.760009765625,
+        "width": 31.200225830078125,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-7",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " of",
+        "font": "GlyphLessFont",
+        "size": 10.654566764831543,
+        "source": "backend"
+      },
+      "position": {
+        "x": 270.4802551269531,
+        "y": 212.760009765625,
+        "width": 13.43975830078125,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-8",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " experience",
+        "font": "GlyphLessFont",
+        "size": 11.209965705871582,
+        "source": "backend"
+      },
+      "position": {
+        "x": 283.9200134277344,
+        "y": 212.760009765625,
+        "width": 59.999755859375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-9",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " in",
+        "font": "GlyphLessFont",
+        "size": 9.61251449584961,
+        "source": "backend"
+      },
+      "position": {
+        "x": 343.9197692871094,
+        "y": 212.760009765625,
+        "width": 12.000274658203125,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-10",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " designing",
+        "font": "GlyphLessFont",
+        "size": 11.046541213989258,
+        "source": "backend"
+      },
+      "position": {
+        "x": 355.9200439453125,
+        "y": 212.760009765625,
+        "width": 53.2796630859375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-11",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " secure,",
+        "font": "GlyphLessFont",
+        "size": 10.742670059204102,
+        "source": "backend"
+      },
+      "position": {
+        "x": 409.19970703125,
+        "y": 212.760009765625,
+        "width": 39.5999755859375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-12",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " scalable",
+        "font": "GlyphLessFont",
+        "size": 10.685524940490723,
+        "source": "backend"
+      },
+      "position": {
+        "x": 448.7996826171875,
+        "y": 212.760009765625,
+        "width": 44.880615234375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-13",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " platforms",
+        "font": "GlyphLessFont",
+        "size": 11.046541213989258,
+        "source": "backend"
+      },
+      "position": {
+        "x": 493.6802978515625,
+        "y": 212.760009765625,
+        "width": 53.5194091796875,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-14",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " for",
+        "font": "GlyphLessFont",
+        "size": 10.529936790466309,
+        "source": "backend"
+      },
+      "position": {
+        "x": 547.19970703125,
+        "y": 212.760009765625,
+        "width": 18.240234375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-15",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " IAM,",
+        "font": "GlyphLessFont",
+        "size": 10.71639347076416,
+        "source": "backend"
+      },
+      "position": {
+        "x": 565.43994140625,
+        "y": 212.760009765625,
+        "width": 24.72021484375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-16",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "loT,",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 591.6000366210938,
+        "y": 212.760009765625,
+        "width": 23.0400390625,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-17",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "and",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.80000305175781,
+        "y": 232.20001220703125,
+        "width": 17.999839782714844,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-18",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " delivery",
+        "font": "GlyphLessFont",
+        "size": 10.747061729431152,
+        "source": "backend"
+      },
+      "position": {
+        "x": 88.79984283447266,
+        "y": 232.20001220703125,
+        "width": 45.83991241455078,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-19",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " management",
+        "font": "GlyphLessFont",
+        "size": 11.761670112609863,
+        "source": "backend"
+      },
+      "position": {
+        "x": 134.63975524902344,
+        "y": 232.20001220703125,
+        "width": 66.24064636230469,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-20",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "systems.",
+        "font": "GlyphLessFont",
+        "size": 11.575011253356934,
+        "source": "backend"
+      },
+      "position": {
+        "x": 201.83999633789062,
+        "y": 232.20001220703125,
+        "width": 48.7203369140625,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-21",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Skilled",
+        "font": "GlyphLessFont",
+        "size": 11.020001411437988,
+        "source": "backend"
+      },
+      "position": {
+        "x": 251.75999450683594,
+        "y": 232.20001220703125,
+        "width": 38.64015197753906,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-22",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " in",
+        "font": "GlyphLessFont",
+        "size": 9.61251449584961,
+        "source": "backend"
+      },
+      "position": {
+        "x": 290.400146484375,
+        "y": 232.20001220703125,
+        "width": 12.2398681640625,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-23",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " leading",
+        "font": "GlyphLessFont",
+        "size": 10.812726020812988,
+        "source": "backend"
+      },
+      "position": {
+        "x": 302.6400146484375,
+        "y": 232.20001220703125,
+        "width": 41.280303955078125,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-24",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " system",
+        "font": "GlyphLessFont",
+        "size": 11.527349472045898,
+        "source": "backend"
+      },
+      "position": {
+        "x": 343.9203186035156,
+        "y": 232.20001220703125,
+        "width": 39.119537353515625,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-25",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " migrations,",
+        "font": "GlyphLessFont",
+        "size": 10.710746765136719,
+        "source": "backend"
+      },
+      "position": {
+        "x": 383.03985595703125,
+        "y": 232.20001220703125,
+        "width": 61.4400634765625,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-26",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " optimizing",
+        "font": "GlyphLessFont",
+        "size": 10.996039390563965,
+        "source": "backend"
+      },
+      "position": {
+        "x": 444.47991943359375,
+        "y": 232.20001220703125,
+        "width": 58.320404052734375,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-27",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " database",
+        "font": "GlyphLessFont",
+        "size": 11.402603149414062,
+        "source": "backend"
+      },
+      "position": {
+        "x": 502.8003234863281,
+        "y": 232.20001220703125,
+        "width": 50.159454345703125,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-28",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " performance,",
+        "font": "GlyphLessFont",
+        "size": 11.295988082885742,
+        "source": "backend"
+      },
+      "position": {
+        "x": 552.9597778320312,
+        "y": 232.20001220703125,
+        "width": 73.2000732421875,
+        "height": 11.011001586914062
+      }
+    },
+    {
+      "id": "backend-1-29",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "and",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.79998779296875,
+        "y": 251.4000244140625,
+        "width": 17.999839782714844,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-30",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " implementing",
+        "font": "GlyphLessFont",
+        "size": 11.469998359680176,
+        "source": "backend"
+      },
+      "position": {
+        "x": 88.7998275756836,
+        "y": 251.4000244140625,
+        "width": 75.84066009521484,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-31",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " end-to-end",
+        "font": "GlyphLessFont",
+        "size": 11.280445098876953,
+        "source": "backend"
+      },
+      "position": {
+        "x": 164.64048767089844,
+        "y": 251.4000244140625,
+        "width": 60.71977233886719,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-32",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " login",
+        "font": "GlyphLessFont",
+        "size": 10.327470779418945,
+        "source": "backend"
+      },
+      "position": {
+        "x": 225.36026000976562,
+        "y": 251.4000244140625,
+        "width": 28.559844970703125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-33",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " workflows.",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 253.92010498046875,
+        "y": 251.4000244140625,
+        "width": 60.72027587890625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-34",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Proficient",
+        "font": "GlyphLessFont",
+        "size": 10.554957389831543,
+        "source": "backend"
+      },
+      "position": {
+        "x": 314.640380859375,
+        "y": 251.4000244140625,
+        "width": 54.479248046875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-35",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " in",
+        "font": "GlyphLessFont",
+        "size": 9.61251449584961,
+        "source": "backend"
+      },
+      "position": {
+        "x": 369.11962890625,
+        "y": 251.4000244140625,
+        "width": 12.0003662109375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-36",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " microservices,",
+        "font": "GlyphLessFont",
+        "size": 10.812726020812988,
+        "source": "backend"
+      },
+      "position": {
+        "x": 381.1199951171875,
+        "y": 251.4000244140625,
+        "width": 78.2406005859375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-37",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " RESTful",
+        "font": "GlyphLessFont",
+        "size": 11.22344970703125,
+        "source": "backend"
+      },
+      "position": {
+        "x": 459.360595703125,
+        "y": 251.4000244140625,
+        "width": 44.159332275390625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-38",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " APls,",
+        "font": "GlyphLessFont",
+        "size": 10.826593399047852,
+        "source": "backend"
+      },
+      "position": {
+        "x": 503.5199279785156,
+        "y": 251.4000244140625,
+        "width": 29.999786376953125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-39",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 533.5197143554688,
+        "y": 251.4000244140625,
+        "width": 21.600341796875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-40",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Agile",
+        "font": "GlyphLessFont",
+        "size": 10.777754783630371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 555.1200561523438,
+        "y": 251.4000244140625,
+        "width": 29.52008056640625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-41",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " project",
+        "font": "GlyphLessFont",
+        "size": 10.7075834274292,
+        "source": "backend"
+      },
+      "position": {
+        "x": 584.64013671875,
+        "y": 251.4000244140625,
+        "width": 40.32025146484375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-42",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "delivery,",
+        "font": "GlyphLessFont",
+        "size": 10.33309268951416,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.55999755859375,
+        "y": 270.84002685546875,
+        "width": 43.679786682128906,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-43",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " consistently",
+        "font": "GlyphLessFont",
+        "size": 10.798168182373047,
+        "source": "backend"
+      },
+      "position": {
+        "x": 114.23978424072266,
+        "y": 270.84002685546875,
+        "width": 66.7204360961914,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-44",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " enhancing",
+        "font": "GlyphLessFont",
+        "size": 11.463562965393066,
+        "source": "backend"
+      },
+      "position": {
+        "x": 180.96022033691406,
+        "y": 270.84002685546875,
+        "width": 56.63972473144531,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-45",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " user",
+        "font": "GlyphLessFont",
+        "size": 11.079681396484375,
+        "source": "backend"
+      },
+      "position": {
+        "x": 237.59994506835938,
+        "y": 270.84002685546875,
+        "width": 25.439910888671875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-46",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " experience.",
+        "font": "GlyphLessFont",
+        "size": 10.932473182678223,
+        "source": "backend"
+      },
+      "position": {
+        "x": 263.03985595703125,
+        "y": 270.84002685546875,
+        "width": 62.639617919921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-47",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Known",
+        "font": "GlyphLessFont",
+        "size": 11.396870613098145,
+        "source": "backend"
+      },
+      "position": {
+        "x": 325.6794738769531,
+        "y": 270.84002685546875,
+        "width": 33.60064697265625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-48",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "for",
+        "font": "GlyphLessFont",
+        "size": 13.199999809265137,
+        "source": "backend"
+      },
+      "position": {
+        "x": 360.2400207519531,
+        "y": 270.84002685546875,
+        "width": 23.760040283203125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-49",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " expertise",
+        "font": "GlyphLessFont",
+        "size": 10.886110305786133,
+        "source": "backend"
+      },
+      "position": {
+        "x": 384.00006103515625,
+        "y": 270.84002685546875,
+        "width": 51.360137939453125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-50",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " in",
+        "font": "GlyphLessFont",
+        "size": 9.61251449584961,
+        "source": "backend"
+      },
+      "position": {
+        "x": 435.3601989746094,
+        "y": 270.84002685546875,
+        "width": 11.75982666015625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-51",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Java,",
+        "font": "GlyphLessFont",
+        "size": 10.580033302307129,
+        "source": "backend"
+      },
+      "position": {
+        "x": 447.1200256347656,
+        "y": 270.84002685546875,
+        "width": 28.800201416015625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-52",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Spring",
+        "font": "GlyphLessFont",
+        "size": 11.099539756774902,
+        "source": "backend"
+      },
+      "position": {
+        "x": 475.92022705078125,
+        "y": 270.84002685546875,
+        "width": 36.71966552734375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-53",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Boot,",
+        "font": "GlyphLessFont",
+        "size": 10.875323295593262,
+        "source": "backend"
+      },
+      "position": {
+        "x": 512.639892578125,
+        "y": 270.84002685546875,
+        "width": 30.24029541015625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-54",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 542.8801879882812,
+        "y": 270.84002685546875,
+        "width": 21.599853515625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-55",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " React",
+        "font": "GlyphLessFont",
+        "size": 10.37842845916748,
+        "source": "backend"
+      },
+      "position": {
+        "x": 564.4800415039062,
+        "y": 270.84002685546875,
+        "width": 28.7999267578125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-56",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "js,",
+        "font": "GlyphLessFont",
+        "size": 11.178511619567871,
+        "source": "backend"
+      },
+      "position": {
+        "x": 593.760009765625,
+        "y": 270.84002685546875,
+        "width": 17.039794921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-57",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " with",
+        "font": "GlyphLessFont",
+        "size": 11.19819450378418,
+        "source": "backend"
+      },
+      "position": {
+        "x": 610.7998046875,
+        "y": 270.84002685546875,
+        "width": 25.67999267578125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-58",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "a",
+        "font": "GlyphLessFont",
+        "size": 10.276143074035645,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.79998779296875,
+        "y": 290.0400390625,
+        "width": 4.799957275390625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-59",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " track",
+        "font": "GlyphLessFont",
+        "size": 10.826593399047852,
+        "source": "backend"
+      },
+      "position": {
+        "x": 75.59994506835938,
+        "y": 290.0400390625,
+        "width": 29.999832153320312,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-60",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " record",
+        "font": "GlyphLessFont",
+        "size": 11.099539756774902,
+        "source": "backend"
+      },
+      "position": {
+        "x": 105.59977722167969,
+        "y": 290.0400390625,
+        "width": 36.96015930175781,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-61",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " of",
+        "font": "GlyphLessFont",
+        "size": 10.654566764831543,
+        "source": "backend"
+      },
+      "position": {
+        "x": 142.5599365234375,
+        "y": 290.0400390625,
+        "width": 13.920028686523438,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-62",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " database",
+        "font": "GlyphLessFont",
+        "size": 11.373702049255371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 156.47996520996094,
+        "y": 290.0400390625,
+        "width": 49.92042541503906,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-63",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " tuning",
+        "font": "GlyphLessFont",
+        "size": 11.099539756774902,
+        "source": "backend"
+      },
+      "position": {
+        "x": 206.400390625,
+        "y": 290.0400390625,
+        "width": 36.71954345703125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-64",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 243.11993408203125,
+        "y": 290.0400390625,
+        "width": 21.1201171875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-65",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " streamlined",
+        "font": "GlyphLessFont",
+        "size": 11.128390312194824,
+        "source": "backend"
+      },
+      "position": {
+        "x": 264.24005126953125,
+        "y": 290.0400390625,
+        "width": 65.52059936523438,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-66",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " workflows",
+        "font": "GlyphLessFont",
+        "size": 11.590785026550293,
+        "source": "backend"
+      },
+      "position": {
+        "x": 329.7606506347656,
+        "y": 290.0400390625,
+        "width": 58.31927490234375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-67",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " to",
+        "font": "GlyphLessFont",
+        "size": 10.777754783630371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 388.0799255371094,
+        "y": 290.0400390625,
+        "width": 13.680084228515625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-68",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " improve",
+        "font": "GlyphLessFont",
+        "size": 11.554608345031738,
+        "source": "backend"
+      },
+      "position": {
+        "x": 401.760009765625,
+        "y": 290.0400390625,
+        "width": 45.840240478515625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-69",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " system",
+        "font": "GlyphLessFont",
+        "size": 11.527349472045898,
+        "source": "backend"
+      },
+      "position": {
+        "x": 447.6002502441406,
+        "y": 290.0400390625,
+        "width": 39.359649658203125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-70",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " efficiency.",
+        "font": "GlyphLessFont",
+        "size": 10.182340621948242,
+        "source": "backend"
+      },
+      "position": {
+        "x": 486.95989990234375,
+        "y": 290.0400390625,
+        "width": 55.4400634765625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-71",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Recognized",
+        "font": "GlyphLessFont",
+        "size": 11.419991493225098,
+        "source": "backend"
+      },
+      "position": {
+        "x": 542.3999633789062,
+        "y": 290.0400390625,
+        "width": 63.1204833984375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-72",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " for",
+        "font": "GlyphLessFont",
+        "size": 10.529936790466309,
+        "source": "backend"
+      },
+      "position": {
+        "x": 605.5204467773438,
+        "y": 290.0400390625,
+        "width": 18.47955322265625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-73",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "developing",
+        "font": "GlyphLessFont",
+        "size": 11.23347282409668,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.56005859375,
+        "y": 309.48004150390625,
+        "width": 57.359466552734375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-74",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " comprehensive",
+        "font": "GlyphLessFont",
+        "size": 11.629658699035645,
+        "source": "backend"
+      },
+      "position": {
+        "x": 127.91952514648438,
+        "y": 309.48004150390625,
+        "width": 82.08030700683594,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-75",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " technical",
+        "font": "GlyphLessFont",
+        "size": 10.69582462310791,
+        "source": "backend"
+      },
+      "position": {
+        "x": 209.9998321533203,
+        "y": 309.48004150390625,
+        "width": 49.20048522949219,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-76",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " documentation",
+        "font": "GlyphLessFont",
+        "size": 11.594646453857422,
+        "source": "backend"
+      },
+      "position": {
+        "x": 259.2003173828125,
+        "y": 309.48004150390625,
+        "width": 82.55908203125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-77",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 341.7593994140625,
+        "y": 309.48004150390625,
+        "width": 21.1207275390625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-78",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " delivering",
+        "font": "GlyphLessFont",
+        "size": 10.67929458618164,
+        "source": "backend"
+      },
+      "position": {
+        "x": 362.880126953125,
+        "y": 309.48004150390625,
+        "width": 54.95953369140625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-79",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " high-quality,",
+        "font": "GlyphLessFont",
+        "size": 10.39404010772705,
+        "source": "backend"
+      },
+      "position": {
+        "x": 417.83966064453125,
+        "y": 309.48004150390625,
+        "width": 66.719970703125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-80",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " collaborative",
+        "font": "GlyphLessFont",
+        "size": 10.73996639251709,
+        "source": "backend"
+      },
+      "position": {
+        "x": 484.55963134765625,
+        "y": 309.48004150390625,
+        "width": 70.79998779296875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-81",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " projects.",
+        "font": "GlyphLessFont",
+        "size": 10.417877197265625,
+        "source": "backend"
+      },
+      "position": {
+        "x": 555.359619140625,
+        "y": 309.48004150390625,
+        "width": 47.280029296875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-82",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Adept",
+        "font": "GlyphLessFont",
+        "size": 11.020001411437988,
+        "source": "backend"
+      },
+      "position": {
+        "x": 602.6396484375,
+        "y": 309.48004150390625,
+        "width": 30.00048828125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-83",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "at",
+        "font": "GlyphLessFont",
+        "size": 13.398523330688477,
+        "source": "backend"
+      },
+      "position": {
+        "x": 633.1200561523438,
+        "y": 309.48004150390625,
+        "width": 16.320068359375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-84",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "utilizing",
+        "font": "GlyphLessFont",
+        "size": 10.045234680175781,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.800048828125,
+        "y": 328.9200439453125,
+        "width": 41.280029296875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-85",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " AWS,",
+        "font": "GlyphLessFont",
+        "size": 12.480420112609863,
+        "source": "backend"
+      },
+      "position": {
+        "x": 112.080078125,
+        "y": 328.9200439453125,
+        "width": 30.96014404296875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-86",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Docker,",
+        "font": "GlyphLessFont",
+        "size": 11.054206848144531,
+        "source": "backend"
+      },
+      "position": {
+        "x": 143.04022216796875,
+        "y": 328.9200439453125,
+        "width": 42.720184326171875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-87",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Kubernetes,",
+        "font": "GlyphLessFont",
+        "size": 11.235626220703125,
+        "source": "backend"
+      },
+      "position": {
+        "x": 185.76040649414062,
+        "y": 328.9200439453125,
+        "width": 67.19923400878906,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-88",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 252.9596405029297,
+        "y": 328.9200439453125,
+        "width": 21.600479125976562,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-89",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " other",
+        "font": "GlyphLessFont",
+        "size": 11.162805557250977,
+        "source": "backend"
+      },
+      "position": {
+        "x": 274.56011962890625,
+        "y": 328.9200439453125,
+        "width": 31.919952392578125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-90",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " technologies",
+        "font": "GlyphLessFont",
+        "size": 11.059786796569824,
+        "source": "backend"
+      },
+      "position": {
+        "x": 306.4800720214844,
+        "y": 328.9200439453125,
+        "width": 69.5992431640625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-91",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " to",
+        "font": "GlyphLessFont",
+        "size": 10.777754783630371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 376.0793151855469,
+        "y": 328.9200439453125,
+        "width": 13.680755615234375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-92",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " drive",
+        "font": "GlyphLessFont",
+        "size": 10.728693962097168,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.76007080078125,
+        "y": 328.9200439453125,
+        "width": 29.280120849609375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-93",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " system",
+        "font": "GlyphLessFont",
+        "size": 11.527349472045898,
+        "source": "backend"
+      },
+      "position": {
+        "x": 419.0401916503906,
+        "y": 328.9200439453125,
+        "width": 39.5997314453125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-94",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " enhancements",
+        "font": "GlyphLessFont",
+        "size": 11.84736156463623,
+        "source": "backend"
+      },
+      "position": {
+        "x": 458.6399230957031,
+        "y": 328.9200439453125,
+        "width": 79.92019653320312,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-95",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 538.5601196289062,
+        "y": 328.9200439453125,
+        "width": 21.5999755859375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-96",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " ensure",
+        "font": "GlyphLessFont",
+        "size": 11.373702049255371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 560.1600952148438,
+        "y": 328.9200439453125,
+        "width": 38.88037109375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-97",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " seamless",
+        "font": "GlyphLessFont",
+        "size": 11.315465927124023,
+        "source": "backend"
+      },
+      "position": {
+        "x": 599.0404663085938,
+        "y": 328.9200439453125,
+        "width": 49.919677734375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-98",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "operations.",
+        "font": "GlyphLessFont",
+        "size": 10.822233200073242,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.55999755859375,
+        "y": 348.36004638671875,
+        "width": 58.56036376953125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-99",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Java",
+        "font": "GlyphLessFont",
+        "size": 11.13914966583252,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.55999755859375,
+        "y": 411.00006103515625,
+        "width": 22.56011962890625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-100",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Spring",
+        "font": "GlyphLessFont",
+        "size": 11.059786796569824,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.0400085449219,
+        "y": 411.00006103515625,
+        "width": 33.359619140625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-101",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Boot",
+        "font": "GlyphLessFont",
+        "size": 11.546751976013184,
+        "source": "backend"
+      },
+      "position": {
+        "x": 422.3996276855469,
+        "y": 411.00006103515625,
+        "width": 27.841705322265625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-102",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Microservices",
+        "font": "GlyphLessFont",
+        "size": 11.586682319641113,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.27999877929688,
+        "y": 434.24005126953125,
+        "width": 72.71942138671875,
+        "height": 12.011993408203125
+      }
+    },
+    {
+      "id": "backend-1-103",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Restful",
+        "font": "GlyphLessFont",
+        "size": 11.035564422607422,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.760009765625,
+        "y": 434.24005126953125,
+        "width": 35.520172119140625,
+        "height": 12.011993408203125
+      }
+    },
+    {
+      "id": "backend-1-104",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Services",
+        "font": "GlyphLessFont",
+        "size": 11.384199142456055,
+        "source": "backend"
+      },
+      "position": {
+        "x": 425.2801818847656,
+        "y": 434.24005126953125,
+        "width": 47.039764404296875,
+        "height": 12.011993408203125
+      }
+    },
+    {
+      "id": "backend-1-105",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "React",
+        "font": "GlyphLessFont",
+        "size": 10.37842845916748,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.27999877929688,
+        "y": 459.48004150390625,
+        "width": 24.479942321777344,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-106",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "js",
+        "font": "GlyphLessFont",
+        "size": 12.585750579833984,
+        "source": "backend"
+      },
+      "position": {
+        "x": 96.23999786376953,
+        "y": 459.48004150390625,
+        "width": 14.400100708007812,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-107",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "MySQL",
+        "font": "GlyphLessFont",
+        "size": 12.998444557189941,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.5199890136719,
+        "y": 459.48004150390625,
+        "width": 38.39996337890625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-108",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Mongo",
+        "font": "GlyphLessFont",
+        "size": 12.585750579833984,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.27999877929688,
+        "y": 483.72003173828125,
+        "width": 36.00025177001953,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-109",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " DB",
+        "font": "GlyphLessFont",
+        "size": 12.998444557189941,
+        "source": "backend"
+      },
+      "position": {
+        "x": 107.2802505493164,
+        "y": 483.72003173828125,
+        "width": 18.959701538085938,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-110",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Log4j",
+        "font": "GlyphLessFont",
+        "size": 10.971914291381836,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.52001953125,
+        "y": 483.72003173828125,
+        "width": 27.359771728515625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-111",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Hibernate",
+        "font": "GlyphLessFont",
+        "size": 11.81180477142334,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.280029296875,
+        "y": 506.96002197265625,
+        "width": 52.31950378417969,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-112",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Junit",
+        "font": "GlyphLessFont",
+        "size": 11.102432250976562,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.0400390625,
+        "y": 506.96002197265625,
+        "width": 25.679931640625,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-113",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Mockito",
+        "font": "GlyphLessFont",
+        "size": 12.102402687072754,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.280029296875,
+        "y": 530.9600219726562,
+        "width": 42.71985626220703,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-114",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "PowerMock",
+        "font": "GlyphLessFont",
+        "size": 12.949106216430664,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.7600402832031,
+        "y": 530.9600219726562,
+        "width": 62.87969970703125,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-115",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Git",
+        "font": "GlyphLessFont",
+        "size": 11.256997108459473,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.56002807617188,
+        "y": 555.2000122070312,
+        "width": 15.839996337890625,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-116",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "AWS",
+        "font": "GlyphLessFont",
+        "size": 14.40000057220459,
+        "source": "backend"
+      },
+      "position": {
+        "x": 388.8000183105469,
+        "y": 555.2000122070312,
+        "width": 25.9200439453125,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-117",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Docker",
+        "font": "GlyphLessFont",
+        "size": 12.198400497436523,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.280029296875,
+        "y": 579.4400024414062,
+        "width": 37.20025634765625,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-118",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Kubernetes",
+        "font": "GlyphLessFont",
+        "size": 12.047904968261719,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.7600402832031,
+        "y": 579.4400024414062,
+        "width": 60.48004150390625,
+        "height": 12.01202392578125
+      }
+    },
+    {
+      "id": "backend-1-119",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Apache",
+        "font": "GlyphLessFont",
+        "size": 11.97667121887207,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.32003784179688,
+        "y": 604.6799926757812,
+        "width": 39.12016296386719,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-120",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Kafka",
+        "font": "GlyphLessFont",
+        "size": 11.303804397583008,
+        "source": "backend"
+      },
+      "position": {
+        "x": 109.44020080566406,
+        "y": 604.6799926757812,
+        "width": 32.87983703613281,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-121",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Redis",
+        "font": "GlyphLessFont",
+        "size": 11.020001411437988,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.7600402832031,
+        "y": 604.6799926757812,
+        "width": 27.60009765625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-122",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Cache",
+        "font": "GlyphLessFont",
+        "size": 11.895572662353516,
+        "source": "backend"
+      },
+      "position": {
+        "x": 417.3601379394531,
+        "y": 604.6799926757812,
+        "width": 35.52008056640625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-123",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "ELK",
+        "font": "GlyphLessFont",
+        "size": 12.158955574035645,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.280029296875,
+        "y": 628.9199829101562,
+        "width": 20.16002655029297,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-124",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Stack",
+        "font": "GlyphLessFont",
+        "size": 11.162805557250977,
+        "source": "backend"
+      },
+      "position": {
+        "x": 91.44005584716797,
+        "y": 628.9199829101562,
+        "width": 31.20001983642578,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-125",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " (Elasticsearch,",
+        "font": "GlyphLessFont",
+        "size": 10.462844848632812,
+        "source": "backend"
+      },
+      "position": {
+        "x": 122.64007568359375,
+        "y": 628.9199829101562,
+        "width": 78.23945617675781,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-126",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Logstash,",
+        "font": "GlyphLessFont",
+        "size": 10.804889678955078,
+        "source": "backend"
+      },
+      "position": {
+        "x": 200.87953186035156,
+        "y": 628.9199829101562,
+        "width": 51.600128173828125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-127",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Kibana)",
+        "font": "GlyphLessFont",
+        "size": 11.054206848144531,
+        "source": "backend"
+      },
+      "position": {
+        "x": 252.4796600341797,
+        "y": 628.9199829101562,
+        "width": 42.72084045410156,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-128",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "SonarQube",
+        "font": "GlyphLessFont",
+        "size": 12.062040328979492,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.0400390625,
+        "y": 628.9199829101562,
+        "width": 59.519805908203125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-129",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Jenkins",
+        "font": "GlyphLessFont",
+        "size": 11.054206848144531,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.56002807617188,
+        "y": 652.9199829101562,
+        "width": 38.88035583496094,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-130",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "",
+        "font": "GlyphLessFont",
+        "size": 10.728693962097168,
+        "source": "backend"
+      },
+      "position": {
+        "x": 388.8000183105469,
+        "y": 652.9199829101562,
+        "width": 26.160125732421875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-131",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "",
+        "font": "GlyphLessFont",
+        "size": 11.737159729003906,
+        "source": "backend"
+      },
+      "position": {
+        "x": 414.96014404296875,
+        "y": 652.9199829101562,
+        "width": 72.720458984375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-132",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Postman",
+        "font": "GlyphLessFont",
+        "size": 11.844707489013672,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.280029296875,
+        "y": 677.1599731445312,
+        "width": 44.63995361328125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-133",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Swagger",
+        "font": "GlyphLessFont",
+        "size": 11.844707489013672,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.0400390625,
+        "y": 677.1599731445312,
+        "width": 44.63995361328125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-134",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Sonar",
+        "font": "GlyphLessFont",
+        "size": 11.535009384155273,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.56002807617188,
+        "y": 701.3999633789062,
+        "width": 30.240097045898438,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-135",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Qube",
+        "font": "GlyphLessFont",
+        "size": 12.533146858215332,
+        "source": "backend"
+      },
+      "position": {
+        "x": 100.80012512207031,
+        "y": 701.3999633789062,
+        "width": 31.67987060546875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-136",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Jira",
+        "font": "GlyphLessFont",
+        "size": 9.94986343383789,
+        "source": "backend"
+      },
+      "position": {
+        "x": 389.0400390625,
+        "y": 701.3999633789062,
+        "width": 18,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-137",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "EMPLOYMENT",
+        "font": "GlyphLessFont",
+        "size": 11.72075080871582,
+        "source": "backend"
+      },
+      "position": {
+        "x": 79.44000244140625,
+        "y": 737.239990234375,
+        "width": 76.32003784179688,
+        "height": 9.00897216796875
+      }
+    },
+    {
+      "id": "backend-1-138",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " HISTORY",
+        "font": "GlyphLessFont",
+        "size": 11.082066535949707,
+        "source": "backend"
+      },
+      "position": {
+        "x": 155.76004028320312,
+        "y": 737.239990234375,
+        "width": 53.040313720703125,
+        "height": 9.00897216796875
+      }
+    },
+    {
+      "id": "backend-1-139",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "Senior",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.31999969482422,
+        "y": 764.280029296875,
+        "width": 34.56024169921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-140",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Software",
+        "font": "GlyphLessFont",
+        "size": 11.575011253356934,
+        "source": "backend"
+      },
+      "position": {
+        "x": 104.88024139404297,
+        "y": 764.280029296875,
+        "width": 51.60009002685547,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-141",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Engineer,",
+        "font": "GlyphLessFont",
+        "size": 10.912976264953613,
+        "source": "backend"
+      },
+      "position": {
+        "x": 156.48033142089844,
+        "y": 764.280029296875,
+        "width": 52.319488525390625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-142",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " GE",
+        "font": "GlyphLessFont",
+        "size": 12.79371452331543,
+        "source": "backend"
+      },
+      "position": {
+        "x": 208.79981994628906,
+        "y": 764.280029296875,
+        "width": 18.000076293945312,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-143",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Healtare",
+        "font": "GlyphLessFont",
+        "size": 11.396870613098145,
+        "source": "backend"
+      },
+      "position": {
+        "x": 226.79989624023438,
+        "y": 764.280029296875,
+        "width": 62.64031982421875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-144",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " /",
+        "font": "GlyphLessFont",
+        "size": 10.276143074035645,
+        "source": "backend"
+      },
+      "position": {
+        "x": 289.4402160644531,
+        "y": 764.280029296875,
+        "width": 7.679718017578125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-145",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Joulestowatts,",
+        "font": "GlyphLessFont",
+        "size": 11.088196754455566,
+        "source": "backend"
+      },
+      "position": {
+        "x": 297.11993408203125,
+        "y": 764.280029296875,
+        "width": 80.63992309570312,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-146",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Bengaluru",
+        "font": "GlyphLessFont",
+        "size": 11.514640808105469,
+        "source": "backend"
+      },
+      "position": {
+        "x": 377.7598571777344,
+        "y": 764.280029296875,
+        "width": 57.840179443359375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-147",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "NMCT",
+        "font": "GlyphLessFont",
+        "size": 12.158955574035645,
+        "source": "backend"
+      },
+      "position": {
+        "x": 71.27999877929688,
+        "y": 802.9200439453125,
+        "width": 26.880035400390625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-148",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "(CT",
+        "font": "GlyphLessFont",
+        "size": 14.288487434387207,
+        "source": "backend"
+      },
+      "position": {
+        "x": 98.87999725341797,
+        "y": 802.9200439453125,
+        "width": 27.840110778808594,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-149",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Scan",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 126.72010803222656,
+        "y": 802.9200439453125,
+        "width": 26.87969970703125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-150",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Machine)",
+        "font": "GlyphLessFont",
+        "size": 11.402603149414062,
+        "source": "backend"
+      },
+      "position": {
+        "x": 153.5998077392578,
+        "y": 802.9200439453125,
+        "width": 51.35997009277344,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-151",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "As",
+        "font": "GlyphLessFont",
+        "size": 11.828760147094727,
+        "source": "backend"
+      },
+      "position": {
+        "x": 70.31999206542969,
+        "y": 829.5599975585938,
+        "width": 12.719955444335938,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-152",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " a",
+        "font": "GlyphLessFont",
+        "size": 10.529936790466309,
+        "source": "backend"
+      },
+      "position": {
+        "x": 83.03994750976562,
+        "y": 829.5599975585938,
+        "width": 8.4000244140625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-153",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Senior",
+        "font": "GlyphLessFont",
+        "size": 11.099539756774902,
+        "source": "backend"
+      },
+      "position": {
+        "x": 91.43997192382812,
+        "y": 829.5599975585938,
+        "width": 36.9599609375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-154",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Software",
+        "font": "GlyphLessFont",
+        "size": 11.431535720825195,
+        "source": "backend"
+      },
+      "position": {
+        "x": 128.39993286132812,
+        "y": 829.5599975585938,
+        "width": 50.40008544921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-155",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Engineer",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 178.80001831054688,
+        "y": 829.5599975585938,
+        "width": 49.92030334472656,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-156",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " in",
+        "font": "GlyphLessFont",
+        "size": 9.474186897277832,
+        "source": "backend"
+      },
+      "position": {
+        "x": 228.72032165527344,
+        "y": 829.5599975585938,
+        "width": 11.51971435546875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-157",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " the",
+        "font": "GlyphLessFont",
+        "size": 11.099539756774902,
+        "source": "backend"
+      },
+      "position": {
+        "x": 240.2400360107422,
+        "y": 829.5599975585938,
+        "width": 20.159927368164062,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-158",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " CT(Computed",
+        "font": "GlyphLessFont",
+        "size": 12.119384765625,
+        "source": "backend"
+      },
+      "position": {
+        "x": 260.39996337890625,
+        "y": 829.5599975585938,
+        "width": 76.7996826171875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-159",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Topography)",
+        "font": "GlyphLessFont",
+        "size": 11.405254364013672,
+        "source": "backend"
+      },
+      "position": {
+        "x": 337.19964599609375,
+        "y": 829.5599975585938,
+        "width": 68.4002685546875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-160",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " team:",
+        "font": "GlyphLessFont",
+        "size": 11.303804397583008,
+        "source": "backend"
+      },
+      "position": {
+        "x": 405.59991455078125,
+        "y": 829.5599975585938,
+        "width": 32.400146484375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-161",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "e",
+        "font": "GlyphLessFont",
+        "size": 10.01604175567627,
+        "source": "backend"
+      },
+      "position": {
+        "x": 85.91999816894531,
+        "y": 855.9600219726562,
+        "width": 4.560050964355469,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-162",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Developed",
+        "font": "GlyphLessFont",
+        "size": 11.641304969787598,
+        "source": "backend"
+      },
+      "position": {
+        "x": 90.48004913330078,
+        "y": 855.9600219726562,
+        "width": 62.639976501464844,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-163",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 153.12002563476562,
+        "y": 855.9600219726562,
+        "width": 21.839828491210938,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-164",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " implemented",
+        "font": "GlyphLessFont",
+        "size": 11.675660133361816,
+        "source": "backend"
+      },
+      "position": {
+        "x": 174.95985412597656,
+        "y": 855.9600219726562,
+        "width": 72.24066162109375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-165",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " an",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 247.2005157470703,
+        "y": 855.9600219726562,
+        "width": 15.359542846679688,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-166",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " automated",
+        "font": "GlyphLessFont",
+        "size": 11.741695404052734,
+        "source": "backend"
+      },
+      "position": {
+        "x": 262.56005859375,
+        "y": 855.9600219726562,
+        "width": 60.00018310546875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-167",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " deployment",
+        "font": "GlyphLessFont",
+        "size": 11.23347282409668,
+        "source": "backend"
+      },
+      "position": {
+        "x": 322.56024169921875,
+        "y": 855.9600219726562,
+        "width": 60.959381103515625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-168",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "pipeline",
+        "font": "GlyphLessFont",
+        "size": 11.517792701721191,
+        "source": "backend"
+      },
+      "position": {
+        "x": 384.4800109863281,
+        "y": 855.9600219726562,
+        "width": 48.23974609375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-169",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " for",
+        "font": "GlyphLessFont",
+        "size": 10.613146781921387,
+        "source": "backend"
+      },
+      "position": {
+        "x": 432.7197570800781,
+        "y": 855.9600219726562,
+        "width": 18.240142822265625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-170",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " CT",
+        "font": "GlyphLessFont",
+        "size": 12.690110206604004,
+        "source": "backend"
+      },
+      "position": {
+        "x": 450.95989990234375,
+        "y": 855.9600219726562,
+        "width": 17.760009765625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-171",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " modules,",
+        "font": "GlyphLessFont",
+        "size": 11.257037162780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 468.71990966796875,
+        "y": 855.9600219726562,
+        "width": 49.44036865234375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-172",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " significantly",
+        "font": "GlyphLessFont",
+        "size": 10.315630912780762,
+        "source": "backend"
+      },
+      "position": {
+        "x": 518.1602783203125,
+        "y": 855.9600219726562,
+        "width": 66.2396240234375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-173",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " reducing",
+        "font": "GlyphLessFont",
+        "size": 11.168766021728516,
+        "source": "backend"
+      },
+      "position": {
+        "x": 584.39990234375,
+        "y": 855.9600219726562,
+        "width": 48.720458984375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-174",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "manual",
+        "font": "GlyphLessFont",
+        "size": 11.603409767150879,
+        "source": "backend"
+      },
+      "position": {
+        "x": 97.68002319335938,
+        "y": 875.4000244140625,
+        "width": 36.719757080078125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-175",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " deployment",
+        "font": "GlyphLessFont",
+        "size": 11.71662712097168,
+        "source": "backend"
+      },
+      "position": {
+        "x": 134.3997802734375,
+        "y": 875.4000244140625,
+        "width": 66.239990234375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-176",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " time",
+        "font": "GlyphLessFont",
+        "size": 11.315465927124023,
+        "source": "backend"
+      },
+      "position": {
+        "x": 200.6397705078125,
+        "y": 875.4000244140625,
+        "width": 26.16021728515625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-177",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 226.79998779296875,
+        "y": 875.4000244140625,
+        "width": 21.359893798828125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-178",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " enhancing",
+        "font": "GlyphLessFont",
+        "size": 11.437990188598633,
+        "source": "backend"
+      },
+      "position": {
+        "x": 248.15988159179688,
+        "y": 875.4000244140625,
+        "width": 57.360565185546875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-179",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " team",
+        "font": "GlyphLessFont",
+        "size": 11.939840316772461,
+        "source": "backend"
+      },
+      "position": {
+        "x": 305.52044677734375,
+        "y": 875.4000244140625,
+        "width": 28.79949951171875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-180",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " productivity",
+        "font": "GlyphLessFont",
+        "size": 10.838768005371094,
+        "source": "backend"
+      },
+      "position": {
+        "x": 334.3199462890625,
+        "y": 875.4000244140625,
+        "width": 67.9193115234375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-181",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " for",
+        "font": "GlyphLessFont",
+        "size": 10.529936790466309,
+        "source": "backend"
+      },
+      "position": {
+        "x": 402.2392578125,
+        "y": 875.4000244140625,
+        "width": 17.760711669921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-182",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " the",
+        "font": "GlyphLessFont",
+        "size": 11.099539756774902,
+        "source": "backend"
+      },
+      "position": {
+        "x": 419.9999694824219,
+        "y": 875.4000244140625,
+        "width": 19.67999267578125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-183",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " local",
+        "font": "GlyphLessFont",
+        "size": 10.01604175567627,
+        "source": "backend"
+      },
+      "position": {
+        "x": 439.6799621582031,
+        "y": 875.4000244140625,
+        "width": 26.640350341796875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-184",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " testing.",
+        "font": "GlyphLessFont",
+        "size": 10.276143074035645,
+        "source": "backend"
+      },
+      "position": {
+        "x": 466.3203125,
+        "y": 875.4000244140625,
+        "width": 41.999359130859375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-185",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "e",
+        "font": "GlyphLessFont",
+        "size": 10.01604175567627,
+        "source": "backend"
+      },
+      "position": {
+        "x": 85.92001342773438,
+        "y": 894.8400268554688,
+        "width": 4.560050964355469,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-186",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Designed and",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 90.48006439208984,
+        "y": 894.8400268554688,
+        "width": 77.0398178100586,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-187",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " integrated",
+        "font": "GlyphLessFont",
+        "size": 10.851040840148926,
+        "source": "backend"
+      },
+      "position": {
+        "x": 167.51988220214844,
+        "y": 894.8400268554688,
+        "width": 57.60064697265625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-188",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Restful",
+        "font": "GlyphLessFont",
+        "size": 10.565728187561035,
+        "source": "backend"
+      },
+      "position": {
+        "x": 225.1205291748047,
+        "y": 894.8400268554688,
+        "width": 40.07957458496094,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-189",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " APIs",
+        "font": "GlyphLessFont",
+        "size": 11.489076614379883,
+        "source": "backend"
+      },
+      "position": {
+        "x": 265.2001037597656,
+        "y": 894.8400268554688,
+        "width": 27.35968017578125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-190",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " to",
+        "font": "GlyphLessFont",
+        "size": 10.777754783630371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 292.5597839355469,
+        "y": 894.8400268554688,
+        "width": 13.68023681640625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-191",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " introduce",
+        "font": "GlyphLessFont",
+        "size": 11.073126792907715,
+        "source": "backend"
+      },
+      "position": {
+        "x": 306.2400207519531,
+        "y": 894.8400268554688,
+        "width": 53.760284423828125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-192",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " new",
+        "font": "GlyphLessFont",
+        "size": 12.515563011169434,
+        "source": "backend"
+      },
+      "position": {
+        "x": 360.00030517578125,
+        "y": 894.8400268554688,
+        "width": 24.959625244140625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-193",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " feature",
+        "font": "GlyphLessFont",
+        "size": 10.98569107055664,
+        "source": "backend"
+      },
+      "position": {
+        "x": 384.9599304199219,
+        "y": 894.8400268554688,
+        "width": 41.0399169921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-194",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " requirements,",
+        "font": "GlyphLessFont",
+        "size": 11.11174201965332,
+        "source": "backend"
+      },
+      "position": {
+        "x": 425.9998474121094,
+        "y": 894.8400268554688,
+        "width": 76.56015014648438,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-195",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " ensuring",
+        "font": "GlyphLessFont",
+        "size": 11.13914966583252,
+        "source": "backend"
+      },
+      "position": {
+        "x": 502.55999755859375,
+        "y": 894.8400268554688,
+        "width": 48.48016357421875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-196",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " seamless",
+        "font": "GlyphLessFont",
+        "size": 11.315465927124023,
+        "source": "backend"
+      },
+      "position": {
+        "x": 551.0401611328125,
+        "y": 894.8400268554688,
+        "width": 49.679931640625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-197",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "functionality",
+        "font": "GlyphLessFont",
+        "size": 10.64502239227295,
+        "source": "backend"
+      },
+      "position": {
+        "x": 96.96002197265625,
+        "y": 914.280029296875,
+        "width": 66.95979309082031,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-198",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 163.91981506347656,
+        "y": 914.280029296875,
+        "width": 21.12030029296875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-199",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " compatibility.",
+        "font": "GlyphLessFont",
+        "size": 10.511994361877441,
+        "source": "backend"
+      },
+      "position": {
+        "x": 185.0401153564453,
+        "y": 914.280029296875,
+        "width": 73.91947937011719,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-200",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": "e",
+        "font": "GlyphLessFont",
+        "size": 10.01604175567627,
+        "source": "backend"
+      },
+      "position": {
+        "x": 85.91999816894531,
+        "y": 933.4800415039062,
+        "width": 4.560050964355469,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-201",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " Identified",
+        "font": "GlyphLessFont",
+        "size": 10.403813362121582,
+        "source": "backend"
+      },
+      "position": {
+        "x": 90.48004913330078,
+        "y": 933.4800415039062,
+        "width": 56.639625549316406,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-202",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 147.1196746826172,
+        "y": 933.4800415039062,
+        "width": 21.12042236328125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-203",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " resolved",
+        "font": "GlyphLessFont",
+        "size": 10.95988655090332,
+        "source": "backend"
+      },
+      "position": {
+        "x": 168.24009704589844,
+        "y": 933.4800415039062,
+        "width": 47.03959655761719,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-204",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " multiple",
+        "font": "GlyphLessFont",
+        "size": 10.777754783630371,
+        "source": "backend"
+      },
+      "position": {
+        "x": 215.27969360351562,
+        "y": 933.4800415039062,
+        "width": 45.600311279296875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-205",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " defects",
+        "font": "GlyphLessFont",
+        "size": 10.916855812072754,
+        "source": "backend"
+      },
+      "position": {
+        "x": 260.8800048828125,
+        "y": 933.4800415039062,
+        "width": 40.56024169921875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-206",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 301.44024658203125,
+        "y": 933.4800415039062,
+        "width": 20.87982177734375,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-207",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " bugs,",
+        "font": "GlyphLessFont",
+        "size": 10.728693962097168,
+        "source": "backend"
+      },
+      "position": {
+        "x": 322.320068359375,
+        "y": 933.4800415039062,
+        "width": 29.52008056640625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-208",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " ensuring",
+        "font": "GlyphLessFont",
+        "size": 11.13914966583252,
+        "source": "backend"
+      },
+      "position": {
+        "x": 351.84014892578125,
+        "y": 933.4800415039062,
+        "width": 47.760009765625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-209",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " system",
+        "font": "GlyphLessFont",
+        "size": 11.527349472045898,
+        "source": "backend"
+      },
+      "position": {
+        "x": 399.60015869140625,
+        "y": 933.4800415039062,
+        "width": 38.63970947265625,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-210",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " reliability",
+        "font": "GlyphLessFont",
+        "size": 9.919657707214355,
+        "source": "backend"
+      },
+      "position": {
+        "x": 438.2398681640625,
+        "y": 933.4800415039062,
+        "width": 52.560028076171875,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-211",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " and",
+        "font": "GlyphLessFont",
+        "size": 11.5654935836792,
+        "source": "backend"
+      },
+      "position": {
+        "x": 490.7998962402344,
+        "y": 933.4800415039062,
+        "width": 20.640167236328125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-212",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " high-quality",
+        "font": "GlyphLessFont",
+        "size": 10.69582462310791,
+        "source": "backend"
+      },
+      "position": {
+        "x": 511.4400634765625,
+        "y": 933.4800415039062,
+        "width": 65.76007080078125,
+        "height": 11.010986328125
+      }
+    },
+    {
+      "id": "backend-1-213",
+      "type": "text",
+      "page": 1,
+      "data": {
+        "text": " performance.",
+        "font": "GlyphLessFont",
+        "size": 11.295988082885742,
+        "source": "backend"
+      },
+      "position": {
+        "x": 577.2001342773438,
+        "y": 933.4800415039062,
+        "width": 72.23968505859375,
+        "height": 11.010986328125
+      }
+    }
+  ]
+}
